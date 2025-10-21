@@ -7,7 +7,7 @@ This repository contains the complete set of solutions and implementation files 
 
 | Problem Set | Solution File(s) | Objective |
 |---|---|---|
-| PS1 | ps1.py | Basic Python Programming & Financial Modeling - Implementing fundamental functions, loops, and control flow structures to model simple financial scenarios (e.g., calculating debt payoff or savings goals). |
+| PS1 | ps1a.py, ps1b.py, ps1c.py | Basic Python Programming & Financial Modeling - Implementing fundamental functions, loops, and control flow structures to model simple financial scenarios (e.g., calculating debt payoff or savings goals). |
 | PS2 | ps2.py | Algorithmic Thinking & Interactive Games - Developing algorithms for iterative problems and applying techniques like bisection search to create an interactive guessing game. |
 | PS3 | ps3.py | Data Structures & Word Games - Implementing the core logic, scoring, and management of word lists and hand data for an interactive word game, demonstrating proficiency with dictionaries and lists. |
 | PS4 | ps4a.py, ps4b.py, ps4c.py | Object-Oriented Programming (OOP) & Cryptography - Designing classes for messages, plaintext, and encrypted data, and implementing encryption/decryption techniques (like the Vigenère cipher and one-time pads) to decode hidden stories. |
